@@ -176,7 +176,3 @@ Responsables de gestión ambiental, jefes de proyecto e ingenieros residentes de
 ### Segmento 2: Empresas constructoras viales
 
 Empresas constructoras y consultoras ambientales que gestionan simultáneamente varios proyectos de infraestructura vial y requieren una visión consolidada del estado ambiental de toda su cartera, más allá del seguimiento obra por obra. El sector constructor peruano ha mostrado una recuperación sostenida en 2024-2025, impulsada por la obra pública vial (CAPECO, 2025), y el Registro Nacional de Consultoras Ambientales agrupa a 1,293 consultoras habilitadas a nivel nacional (SENACE, 2024), lo que evidencia un mercado amplio de organizaciones con potencial de gestionar múltiples proyectos a la vez.
-
----
-
-*Nota: las cifras y referencias normativas deben verificarse y completarse con su fuente exacta (URL, fecha de consulta) en el capítulo de Bibliografía en formato APA antes de la entrega.*
