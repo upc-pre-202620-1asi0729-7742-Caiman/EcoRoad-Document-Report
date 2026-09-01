@@ -6,7 +6,6 @@ Para posicionar estratégicamente a **Caiman** en el mercado de software de gest
 ### 2.1.1. Análisis competitivo
 <a id="2-1-1-analisis-competitivo"></a>
 
-| :--- | :--- |
 | **Categoría** | **Caiman (Nuestra Startup)** | **Enablon (Wolters Kluwer)** | **Benchmark ESG (Gensuite)** | **Cority (Enviance)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Perfil** | | | | |
