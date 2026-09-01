@@ -6,9 +6,7 @@ Para posicionar estratégicamente a **Caiman** en el mercado de software de gest
 ### 2.1.1. Análisis competitivo
 <a id="2-1-1-analisis-competitivo"></a>
 
-| **¿Por qué llevar a cabo este análisis?** | Identificar los vacíos funcionales y comerciales en las soluciones globales de software EHS para posicionar a Caiman como la plataforma SaaS líder en monitoreo y cumplimiento ambiental georreferenciado en tiempo real para proyectos de infraestructura vial. |
 | :--- | :--- |
-
 | **Categoría** | **Caiman (Nuestra Startup)** | **Enablon (Wolters Kluwer)** | **Benchmark ESG (Gensuite)** | **Cority (Enviance)** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Perfil** | | | | |
