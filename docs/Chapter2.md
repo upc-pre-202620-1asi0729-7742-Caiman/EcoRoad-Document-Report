@@ -1,3 +1,9 @@
+## 2.1. Competidores
+<a id="2-1-competidores"></a>
+
+Para posicionar estratégicamente a **Caiman** en el mercado de software de gestión ambiental para infraestructura, es fundamental analizar el ecosistema de soluciones existentes. En esta sección evaluamos competidores directos e indirectos del rubro EHS (*Environment, Health & Safety*) y gestión de cumplimiento operativo. Esto nos permite identificar vacíos en la oferta actual, contrastar modelos comerciales y definir ventajas competitivas sólidas orientadas a empresas constructoras y consultoras ambientales de proyectos viales.
+
+### 2.1.1. Análisis competitivo
 <table border="1" cellpadding="4" cellspacing="0" style="margin:auto; font-size:11px; font-family:sans-serif; table-layout:fixed; width:100%; word-wrap:break-word;">
   <thead>
     <tr>
